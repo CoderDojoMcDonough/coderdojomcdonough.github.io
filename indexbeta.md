@@ -10,8 +10,8 @@ This is a test
                   <h1 class= "text-center"><span>What is CoderDojo?</span></h1>
                   <p class= "lead text-center">CoderDojo is a free and open non-profit group founded to teach youth (ages 7-17) to code. Our sessions are located at the McDonough Public Library and are open to all Henry County youth and parents/guardians. </p>
               </div>
-            </div>  <!-- End row -->
-				  </div>  	<!-- End container -->
+            </div> 
+				  </div>  	
 				</div>
 				
 				<div class="gallery_background visible-lg">
