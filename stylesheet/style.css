@@ -23,10 +23,6 @@ h1, h2 {
     font-size: 200%
 }
 
-p {
-    font-size: 120%
-}
-
 .gallery_background {
     -webkit-background-size: cover !important;
     -moz-background-size: cover !important;
