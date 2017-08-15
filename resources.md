@@ -5,3 +5,5 @@
 ### Mobile App Devleopment
 
 ### Web Development
+
+### [3D Modeling with Blender](resources/3d-modeling)
