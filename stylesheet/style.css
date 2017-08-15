@@ -131,6 +131,10 @@ li.twitter {
     padding-bottom: .5%;
 }
 
+.my_footer {
+    margin-top: 15px;
+}
+
 .bg-grey {
     background-color: #efefef;
 }
