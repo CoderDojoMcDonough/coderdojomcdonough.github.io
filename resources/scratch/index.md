@@ -5,5 +5,7 @@ Scratch is a free visual programming language developed by the MIT Media Lab. Sc
 
 [Scratch Tutorials](https://scratch.mit.edu/tips)
 
-Project Ideas: [Build a Breakout game](Scratch%20-%20Breakout.pdf)
+[CoderDojo Scratch Path](http://kata.coderdojo.com/wiki/Scratch_Path)
+
+Project Idea: [Build a Breakout game](Scratch%20-%20Breakout.pdf)
 
