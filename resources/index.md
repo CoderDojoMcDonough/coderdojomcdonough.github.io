@@ -1,8 +1,8 @@
 ## Resources for small group learning at CoderDojo McDonough
 
-### [3D Modeling with Blender](resources/3d-modeling)
+### [3D Modeling with Blender](3d-modeling)
 
-### [Processing.js](resources/processing)
+### [Processing.js](processing)
 
 ### Scratch
 
@@ -11,4 +11,4 @@
 
 ### Mobile App Devleopment
 
-### Web Development
+### [Web Development](web)
