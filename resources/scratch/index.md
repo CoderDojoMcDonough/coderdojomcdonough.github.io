@@ -9,3 +9,4 @@ Scratch is a free visual programming language developed by the MIT Media Lab. Sc
 
 Project Idea: [Build a Breakout game](Scratch%20-%20Breakout.pdf)
 
+Project Idea: [Using the Pen tool to create colorful patterns](http://kata.coderdojo.com/wiki/Intermediate_Scratch)
