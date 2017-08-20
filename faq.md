@@ -18,7 +18,7 @@ November 19</dd>
 
 <dt>Q. How old does my child have to be?</dt>
 
-<dd>A. Ages 7-17 are welcome. Children 12 and under must be accompanied by an adult at all times during the session. If you are older than 17 and want to participate, please consider [becoming a mentor!](https://github.com/CoderDojoMcDonough/Documentation/blob/master/new_mentor_instructions.md#_=_)</dd>
+<dd>A. Ages 7-17 are welcome. Children 12 and under must be accompanied by an adult at all times during the session. If you are older than 17 and want to participate, please consider [becoming a mentor!](/mentor)</dd>
 
 <dt>Q. What does attendance cost?</dt>
 
@@ -52,7 +52,7 @@ November 19</dd>
 
 <dt>Q. Do I need to have programming knowledge to be a mentor?</dt>
 
-<dd>A. No. All a mentor needs are problem solving skills, the ability to google, and a passion for technology. [Click here](https://github.com/CoderDojoMcDonough/Documentation/blob/master/new_mentor_instructions.md#_=_) for information on how to become a mentor at CoderDojo McDonough.</dd>
+<dd>A. No. All a mentor needs are problem solving skills, the ability to google, and a passion for technology. [Click here](/mentor) for information on how to become a mentor at CoderDojo McDonough.</dd>
 
 <dt>Q. Will I be expected to teach at sessions?</dt>
 
