@@ -16,9 +16,7 @@ have.
 ## Key Times
 
   * 1:00 PM: Volunteers begin setting up
-  * 1:30 PM: Doors open - parents and students check in at the library
-    lobby. 
-  * 2:00 PM: Welcome and kickoff -- Mentors will describe the goals for
+  * 1:30 PM: Welcome and kickoff -- Mentors will describe the goals for
     their group and coding begins.
   * 4:15 PM: Sessions wind down -- Mentors seek feedback from the students
     about the session and ask them what they want to try next time
@@ -72,7 +70,7 @@ View the latest event posted on our [Meetup site](http://www.meetup.com/CoderDoj
 
 ## Online registraton for sessions
 
-No signup is required to attend our coding sessions, but we encourage parents and guardians to RSVP on our Meetup site so we know how many students to expect:  http://www.meetup.com/CoderDojoMcDonough/  
+No signup is required to attend our coding sessions, but we encourage parents and guardians to RSVP on our Meetup site so we know how many students to expect:  [http://www.meetup.com/CoderDojoMcDonough/](http://www.meetup.com/CoderDojoMcDonough/)  
 Parents should only RSVP for the number of students participating and do
 not include parents or guardians. This will allow us to know how many students will be in attendance.
 
