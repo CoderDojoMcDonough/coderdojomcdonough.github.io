@@ -3,7 +3,9 @@
 Scratch is a free visual programming language developed by the MIT Media Lab. Scratch was created to help young people learn to think creatively, reason systematically and work collaboratively.
 [Attribution: Wikipedia](https://en.wikipedia.org/wiki/Scratch_(programming_language))
 
-#### 10/17/2017 project: [Brain Game](http://projects.codeclubworld.org/en-GB/02_scratch_02/03/Brain%20Game.html)
+### Projects used during sessions:  
+#### 1/21/2018: [Dodge Ball - Code Club](https://codeclubprojects.org/en-GB/scratch/dodgeball/)  
+#### 10/17/2017: [Brain Game - Code Club](http://projects.codeclubworld.org/en-GB/02_scratch_02/03/Brain%20Game.html)
 
 #### Resources:
 
@@ -11,7 +13,7 @@ Scratch is a free visual programming language developed by the MIT Media Lab. Sc
 
 [CoderDojo Scratch Path](http://kata.coderdojo.com/wiki/Scratch_Path)
 
-[Code Club Scratch Resources](http://projects.codeclubworld.org/en-GB/)
+[Code Club Scratch Projects](https://codeclubprojects.org/en-GB/scratch/)
 
 [Google CS First Scratch activities](https://www.cs-first.com/materials)
 
