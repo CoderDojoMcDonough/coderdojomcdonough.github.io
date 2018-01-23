@@ -6,15 +6,18 @@
 
 <dt>Q. What are the upcoming CoderDojo McDonough dates?</dt>
 
-<dd>A. Our tentative dates for the remainder of 2017 are:
-April 23
-May 21
-June 11
-July 16
-August 20
-September 17
-October 15
-November 19</dd>
+<dd>A. Our tentative dates for the remainder of 2018 are:
+February 18 
+March 18
+April 15
+May 20
+June 10
+July 15
+Aug 19
+Sep 16
+Oct 21
+Nov 18 
+</dd>
 
 <dt>Q. How old does my child have to be?</dt>
 
