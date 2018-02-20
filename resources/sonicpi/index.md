@@ -13,7 +13,7 @@ Students should be comfortable with typing - either touch typing or hunt-and-pec
 Sites such as typing.com and keybr.com are great free online resources that teach typing skills.
 
 Watch the Intro to Synthesis tutorial videos from Reverb:
-https://reverb.com/news/videos-reverb-launches-intro-to-synthesis-tutorial-series
+[https://reverb.com/news/videos-reverb-launches-intro-to-synthesis-tutorial-series]
 
 Learn about synthesis using the free tutorials provided by Synthorial app for iPad, Mac, or PC:
 https://www.syntorial.com
