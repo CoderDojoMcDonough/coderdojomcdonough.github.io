@@ -8,6 +8,8 @@
 
 ### [Scratch](scratch)
 
+### [Sonic Pi](sonicpi)
+
 <!---
 ### Game Development
 
