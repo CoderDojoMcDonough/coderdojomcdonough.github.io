@@ -9,7 +9,7 @@ Students attending the Sonic Pi session should bring a Windows, Mac, or Linux la
 
 
 ### Getting Started  
-We recommend the following resources to get started with Sonic Pi:
+We recommend the following resources to get started with Sonic Pi.
 
 Students should be comfortable with typing - either touch typing or hunt-and-peck typing is fine. 
 Sites such as typing.com and keybr.com are great free online resources that teach typing skills.
