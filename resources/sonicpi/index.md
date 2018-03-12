@@ -14,14 +14,14 @@ We recommend the following resources to get started with Sonic Pi.
 Students should be comfortable with typing - either touch typing or hunt-and-peck typing is fine. 
 Sites such as typing.com and keybr.com are great free online resources that teach typing skills.
 
-Download and install Sonic Pi, work through the built-in tutorial chapters 1 through 10:
+Download and install Sonic Pi, then work through the built-in tutorial chapters 1 through 10:  
 <http://sonic-pi.net/>
 
-Watch the Intro to Synthesis tutorial videos from Reverb:
+Watch the Intro to Synthesis tutorial videos from Reverb:  
 <https://reverb.com/news/videos-reverb-launches-intro-to-synthesis-tutorial-series>
 
-Learn about synthesis using the free tutorials provided by Synthorial app for iPad, Mac, or PC:
+Learn about synthesis using the free tutorials provided by Synthorial app for iPad, Mac, or PC:  
 <https://www.syntorial.com>
 
-Download the free book "Code Music with Sonic Pi" and try to work through the first three chapters:
+Download the free book "Code Music with Sonic Pi" and try to work through the first three chapters:  
 <https://www.raspberrypi.org/magpi/issues/essentials-sonic-pi-v1/>
