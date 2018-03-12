@@ -14,7 +14,7 @@ We recommend the following resources to get started with Sonic Pi.
 Students should be comfortable with typing - either touch typing or hunt-and-peck typing is fine. 
 Sites such as typing.com and keybr.com are great free online resources that teach typing skills.
 
-Download and install Sonic Pi, then work through the built-in tutorial chapters 1 through 10:  
+Download and install Sonic Pi, then work through the built-in tutorial:  
 <http://sonic-pi.net/>
 
 Watch the Intro to Synthesis tutorial videos from Reverb:  
