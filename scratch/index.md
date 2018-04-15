@@ -1,3 +1,3 @@
-Starter project: <https://scratch.mit.edu/projects/213639731/>
+<a href="https://scratch.mit.edu/projects/213639731/" target="_blank">Starter project</a>
 
-Scratch Galaga Game: <https://projects.raspberrypi.org/en/projects/clone-wars>
+<a href="https://projects.raspberrypi.org/en/projects/clone-wars" target="_blank">Scratch Galaga Game</a>
