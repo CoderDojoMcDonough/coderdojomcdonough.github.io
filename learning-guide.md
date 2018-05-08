@@ -1,44 +1,4 @@
-<!DOCTYPE html>
-<html lang ="en">
-    <head>
-        <meta charset="utf-8">
-    	<meta name="author" content="CoderDojo McDonough team">
-    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-    	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    	
-    	<meta name="description" content="McDonough, Coding">
-    	<title>CoderDojo McDonough</title>
 
-    	<!-- Mobile Meta -->
-    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    	
-  		<!-- Bootstrap -->
-  		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  		<!-- Latest compiled and minified CSS -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-        <!-- Latest compiled and minified JavaScript -->
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-          
-        <!-- Custom css --> 
-  		<link href="stylesheet/style.css" rel="stylesheet">
-  		
-  		<!-- fonts -->
-        <link href='//fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
-          
-        <!-- Font awesome -->
-        <script src="https://use.fontawesome.com/9196bfa636.js"></script>
-    </head>
-    
-    <body>
- 
-    <div id="my_header"></div>
-      
-        <main>
-            <div class="section">
-		        <div class="container">
-	                <div class="row">
-				        <div class="col-md-12">
                             <h1 class= "text-center">Learning Resources</h1>
                             
                             <p class="text-center">At our Dojos, we have different learning groups happening simultaneously: minecraft modding, drag & drop programming and web development. <br><br><b>Students should practice with the resources below (perhaps before attending their first session) to explore interests or discover what they want to get help with.</b></p>
@@ -85,18 +45,4 @@
                             <h2>And even more!</h2>
                             <p>You are not limited to learning these languages in our dojo! It’s just that, so far, this is what most students have expressed interest in, and what most mentors have experience with. If you have other goals and ideas, just let us know and we’ll do our best to help you get started or take what you’ve already done even further. If you find other great online resources, let us know!</p>
                
-                        </div>
-                    </div>
-                </div>
-            </div>
-                
-        <div id="my_footer"></div>
-        
-        <script> 
-        $("#my_header").load("header.html");
-        $("#my_footer").load("footer.html");
-        </script> 
-
-        </main>
-    </body>
-</html>
+                   
