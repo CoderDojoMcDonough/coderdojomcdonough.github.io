@@ -1,5 +1,4 @@
-
-                            <h1 class= "text-center">Learning Resources</h1>
+# Learning Resources
                             
                             <p class="text-center">At our Dojos, we have different learning groups happening simultaneously: minecraft modding, drag & drop programming and web development. <br><br><b>Students should practice with the resources below (perhaps before attending their first session) to explore interests or discover what they want to get help with.</b></p>
                             
