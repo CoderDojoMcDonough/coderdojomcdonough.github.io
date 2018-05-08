@@ -15,3 +15,5 @@
 
 ### Mobile App Devleopment
 --->
+
+### [Other Learning Resources](../learning-guide)
