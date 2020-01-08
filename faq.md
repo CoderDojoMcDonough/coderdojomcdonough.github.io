@@ -5,21 +5,19 @@
 <dl id="faq_content">
 
 <dt>Q. What are the upcoming CoderDojo McDonough dates?</dt>
-
-<dd>Our tentative dates for 2019 are: <br />
-January 13 <br />
-February 10 <br />
-March 10 <br />
+<dd>Our dates for 2020 are: <br />
+January 12 <br />
+February 9 <br />
+March 8 <br />
   <i>April off</i> <br />
-May 5 <br />
-June 9 <br /> 
-July 14 <br />
+May 3 <br />
+June 14 <br />
+July 12 <br />
   <i>August off</i> <br />
-September 8 <br />
-October 13 <br /> 
-November 10 <br />
-  <i>December off</i>
-<br />
+September 13 <br />
+October 11 <br />
+November 8 <br />
+  <i>December off</i> <br />
 </dd>
 
 <dt>Q. How old does my child have to be?</dt>
